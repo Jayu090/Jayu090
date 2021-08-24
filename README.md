@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jayu090
+- 👋 Hi, I’m @CPP
 - 👀 I’m interested in CPP
 - 🌱 I’m currently learning College
 - 💞️ I’m looking to collaborate on Projects
